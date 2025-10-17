@@ -4,10 +4,6 @@
 
 ---
 
-![封面图](https://via.placeholder.com/800x1200/4ecdc4/ffffff?text=短视频赚钱实战手册)
-
----
-
 ### 📖 关于本书
 
 这是一本系统化的短视频赚钱实战手册，涵盖从人性洞察到变现落地的完整方法论。
@@ -47,7 +43,7 @@
 - **版本**：v1.0
 - **更新日期**：2025年10月
 - **开源地址**：https://github.com/whaty/short_video_workflow
-- **在线阅读**：[GitBook链接]
+- **在线阅读**：https://whaty.github.io/short_video_workflow/
 
 ### 📝 作者寄语
 

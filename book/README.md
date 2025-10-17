@@ -52,7 +52,7 @@
 ### 🔗 相关链接
 
 - **GitHub仓库**：https://github.com/whaty/short_video_workflow
-- **在线阅读**：[GitBook链接]
+- **在线阅读**：https://whaty.github.io/short_video_workflow/
 - **问题反馈**：[GitHub Issues](https://github.com/whaty/short_video_workflow/issues)
 
 ### 📝 版本信息
