@@ -1,0 +1,34 @@
+{
+  "title": "短视频赚钱实战手册",
+  "description": "从0到月入过万的系统化方法论",
+  "author": "短视频工作流",
+  "language": "zh-hans",
+  "gitbook": "3.2.3",
+  "root": ".",
+  "structure": {
+    "readme": "cover.md",
+    "summary": "SUMMARY.md"
+  },
+  "plugins": [
+    "github",
+    "search-pro",
+    "back-to-top-button",
+    "chapter-fold",
+    "code",
+    "splitter",
+    "page-treeview",
+    "-lunr",
+    "-search",
+    "expandable-chapters-small",
+    "anchor-navigation-ex"
+  ],
+  "pluginsConfig": {
+    "github": {
+      "url": "https://github.com/whaty/short_video_workflow"
+    },
+    "anchor-navigation-ex": {
+      "showLevel": false,
+      "showGoTop": true
+    }
+  }
+}
