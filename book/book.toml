@@ -1,0 +1,39 @@
+[book]
+title = "短视频赚钱实战手册"
+authors = ["短视频工作流"]
+description = "从0到月入过万的系统化方法论"
+language = "zh-CN"
+multilingual = false
+src = "."
+
+[build]
+build-dir = "_book"
+create-missing = false
+
+[output.html]
+default-theme = "light"
+preferred-dark-theme = "navy"
+git-repository-url = "https://github.com/whaty/short_video_workflow"
+git-repository-icon = "fa-github"
+edit-url-template = "https://github.com/whaty/short_video_workflow/edit/main/book/{path}"
+site-url = "/short_video_workflow/"
+cname = ""
+no-section-label = false
+
+[output.html.fold]
+enable = true
+level = 0
+
+[output.html.search]
+enable = true
+limit-results = 30
+teaser-word-count = 30
+use-boolean-and = true
+boost-title = 2
+boost-hierarchy = 1
+boost-paragraph = 1
+expand = true
+heading-split-level = 3
+
+[output.html.print]
+enable = true

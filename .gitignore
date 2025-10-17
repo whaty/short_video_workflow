@@ -37,3 +37,7 @@ Temporary Items
 # Personal notes (optional)
 personal_notes/
 drafts/
+
+# mdBook build output
+book/_book/
+book/book/
