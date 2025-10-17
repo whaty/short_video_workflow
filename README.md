@@ -1,5 +1,17 @@
 # 短视频赚钱工作流知识库
 
+> 从0到月入过万的系统化方法论
+
+## 📖 在线阅读
+
+**电子书版本**：https://whaty.github.io/short_video_workflow/
+
+- ✅ 完整的12章内容 + 附录
+- ✅ 在线搜索功能
+- ✅ 响应式设计，支持手机/平板/电脑
+- ✅ 深色/浅色主题切换
+- ✅ 持续更新
+
 ## 📚 目录结构
 
 ```
@@ -167,7 +179,9 @@ graph TB
 ## 🔄 更新日志
 
 - 2025-10-17: 初始化知识库结构
-- 待补充...
+- 2025-10-17: 添加知识图谱
+- 2025-10-17: 改造为电子书（12章 + 附录）
+- 2025-10-17: 部署在线版本到 GitHub Pages
 
 ## 💡 贡献指南
 
@@ -176,6 +190,14 @@ graph TB
 - 优化的工作流程
 - 有效的变现方法
 - 最新的平台规则
+
+---
+
+## 🔗 相关链接
+
+- **在线电子书**：https://whaty.github.io/short_video_workflow/
+- **GitHub 仓库**：https://github.com/whaty/short_video_workflow
+- **问题反馈**：[GitHub Issues](https://github.com/whaty/short_video_workflow/issues)
 
 ---
 
